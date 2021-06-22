@@ -109,3 +109,4 @@ resetDiv.addEventListener("click", handleReset);
 for (const cellDiv of cellDivs) {
   cellDiv.addEventListener("click", handleCellClick);
 }
+// added a comment 
